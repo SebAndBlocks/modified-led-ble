@@ -5,7 +5,7 @@ from typing import Final
 DOMAIN = "led_ble"
 
 DEVICE_TIMEOUT = 30
-LOCAL_NAMES = {"LEDnet", "BLE-LED", "LEDBLE", "Triones", "LEDBlue"}
+LOCAL_NAMES = {"LEDnet", "BLE-LED", "LEDBLE", "Triones", "LEDBlue","XRocker","LEDDMX"}
 
 UNSUPPORTED_SUB_MODEL = "LEDnetWF"
 
