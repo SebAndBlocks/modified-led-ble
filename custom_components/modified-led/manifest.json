@@ -1,5 +1,5 @@
 {
-  "domain": "led_ble",
+  "domain": "led_ble2",
   "name": "[Modified] LED BLE",
   "bluetooth": [
     {
@@ -36,7 +36,7 @@
       "local_name": "LEDDMX*"
     }
   ],
-  "codeowners": ["@bdraco"],
+  "codeowners": ["@sebandblocks"],
   "config_flow": true,
   "dependencies": ["bluetooth_adapters"],
   "documentation": "https://www.github.com/SebAndBlocks/modified-led-ble/README.md",
