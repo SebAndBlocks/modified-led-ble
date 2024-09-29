@@ -6,7 +6,7 @@ import asyncio
 from datetime import timedelta
 import logging
 
-from led_ble import BLEAK_EXCEPTIONS, LEDBLE
+from led_ble2 import BLEAK_EXCEPTIONS, LEDBLE
 
 from homeassistant.components import bluetooth
 from homeassistant.components.bluetooth.match import ADDRESS, BluetoothCallbackMatcher
