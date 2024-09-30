@@ -1,5 +1,5 @@
 {
-  "domain": "led_ble2",
+  "domain": "modified_led_ble",
   "name": "[Modified] LED BLE",
   "bluetooth": [
     {

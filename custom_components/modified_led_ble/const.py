@@ -2,7 +2,7 @@
 
 from typing import Final
 
-DOMAIN = "led_ble2"
+DOMAIN = "modified_led_ble"
 
 DEVICE_TIMEOUT = 30
 LOCAL_NAMES = {"LEDnet", "BLE-LED", "LEDBLE", "Triones", "LEDBlue","XRocker","LEDDMX"}
